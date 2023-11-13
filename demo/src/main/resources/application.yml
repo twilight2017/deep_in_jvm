@@ -1,7 +1,1 @@
-server:
-  port: 8089
-spring:
-  profiles: dev
-spring:
-  profiles:
-    active: dev
+# 在这个配置文件中能配置的东西，都存在固有规律，存在对应的文件xxxProperties
